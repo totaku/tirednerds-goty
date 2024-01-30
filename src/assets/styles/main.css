@@ -1,0 +1,10 @@
+@import 'normalize.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+    width: min(100% - 1rem, 960px);
+    margin-inline: auto;
+}

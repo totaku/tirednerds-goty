@@ -1,0 +1,13 @@
+---
+type Props = {
+    game: string;
+    award: string;
+    image: string;
+};
+
+const { game, award, image } = Astro.props;
+---
+
+<img src={image} alt={game} class="object-cover h-full">
+<h>{game}</h>
+<p>{award}</p>

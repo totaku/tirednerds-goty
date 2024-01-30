@@ -1,0 +1,27 @@
+---
+import Goty from "./Goty.astro";
+---
+
+<div class="grid grid-cols-2 grid-rows-2 gap-2">
+    <div class="row-span-2">
+        <Goty 
+            game="Baldur's Gate 3" 
+            image="img/baldurs-gate-3.jpg" 
+            award="12"
+        />
+    </div>
+    <div >
+        <Goty 
+            game="The Legend of Zelda: Tears of the Kingdom" 
+            image="img/tloztotk.jpg" 
+            award="12"
+        />
+    </div>
+    <div class="col-start-2">
+        <Goty 
+            game="Alan Wake 2" 
+            image="img/alan-wake-2.jpg" 
+            award="12"
+        />
+    </div>
+</div>

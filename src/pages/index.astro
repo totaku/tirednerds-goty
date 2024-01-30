@@ -1,5 +1,7 @@
 ---
+import "../assets/styles/main.css"
 
+import GotyList from "../components/GotyList.astro";
 ---
 
 <html lang="en">
@@ -11,6 +13,9 @@
 		<title>Astro</title>
 	</head>
 	<body>
-		<h1>Astro</h1>
+        <div class="container">
+            <h1>Итоги 2023 года</h1>
+            <GotyList />
+        </div>
 	</body>
 </html>
