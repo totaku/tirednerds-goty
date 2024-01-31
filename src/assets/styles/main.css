@@ -6,7 +6,7 @@
 
 html {
     scroll-behavior: smooth;
-    scroll-padding: .15rem;
+    scroll-padding: .8rem;
 }
 
 body {
@@ -28,21 +28,16 @@ h2 {
 }
 
 ol {
-    @apply ml-14;
-    list-style: symbols;
+    @apply list-decimal ml-5;
 }
 
-summary {
-    @apply mx-10;
-}
-
-.main a {
+a {
     border-bottom: 1px solid #e37435;
     font-weight: 500;
 }
 
-.main a:hover,
-.main a:focus {
+ol :has(li > a:hover),
+ol :has(li > a:focus) {
     @apply text-white bg-orange;
     text-decoration: none;
     -webkit-transition: all .3s cubic-bezier(.79, .4, .32, 1.84);
