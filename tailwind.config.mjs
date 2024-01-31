@@ -2,7 +2,16 @@
 export default {
 	content: ['./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}'],
 	theme: {
-		extend: {},
+		extend: {
+            colors: {
+                'black': '#191C1F',
+                'white': '#ECF0F1',
+                'orange': '#E37435',
+            },
+        },
+        fontFamily: {
+            rubik: ['Rubik', 'sans-serif'],
+        },
 	},
 	plugins: [],
 }

@@ -4,7 +4,7 @@ title: "Лучшие игры 2023 года"
 date: "09 Aug 2022"
 ---
 
-## 1. Baldur’s Gate 3 <a name="baldurs-gate-3"></a>
+## 1. Baldur’s Gate 3
 1. [Golden Joystick Awards (UK) (Readers’ Choice)](https://www.gamesradar.com/golden-joystick-awards-2023-winners/)
 2. [WatchMojo (CA)](https://www.youtube.com/watch?v=sXnoQdA6cYM&ab_channel=WatchMojo.com)
 3. [Gaming.net (US)](https://www.gaming.net/best-award-winning-video-games-of-2023/) (United States)
@@ -213,7 +213,7 @@ date: "09 Aug 2022"
 203. [xDlate Production (RU) (Readers’ Choice)](https://youtu.be/1nEH81qHODI?si=CNX4YXzZgIyRyqHS&t=935)
 </details>
 
-##  2. The Legend of Zelda: Tears of the Kingdom <a name="tears-of-the-kingdom"></a> 
+##  2. The Legend of Zelda: Tears of the Kingdom 
 1. [EE Pocket-lint Awards (UK)](https://www.pocket-lint.com/ee-pocket-lint-awards-2023-game-of-the-year/)
 2. [Stuff.tv (UK)](https://www.stuff.tv/award/the-stuff-gadget-awards-2023-game-of-the-year/)
 3. [Trusted Reviews (UK)](https://www.trustedreviews.com/news/trusted-reviews-awards-2023-winners-4373713)
@@ -293,7 +293,7 @@ date: "09 Aug 2022"
 74. [Spawn Wave (US) (Readers’ Choice)](https://www.youtube.com/channel/UCoIXnB865l9Ex9zs4OIXTdQ/community?lb=UgkxnckIADL0Tiu3QQluMQkZEOcUIt0pV0pC)
 </details>
 
-##  3. Alan Wake 2 <a name="alan-wake-2"></a>
+##  3. Alan Wake 2
 1. [Golden Joystick Awards (UK)](https://www.gamesradar.com/golden-joystick-awards-2023-winners/)
 2. [Nacao Tech (BR)](https://nacaotech.com.br/premio-nacao-tech-2023-vencedores/) (Brazil)
 3. [Nacao Tech (BR) (Readers’ Choice)](https://nacaotech.com.br/premio-nacao-tech-2023-vencedores/)(Brazil)

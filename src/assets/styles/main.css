@@ -1,18 +1,16 @@
 @import 'normalize.css';
 
-@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&display=swap');
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 html {
     scroll-behavior: smooth;
-    scroll-padding: 1rem;
+    scroll-padding: .15rem;
 }
 
 body {
-    font-family: 'Rubik', sans-serif;
+    @apply bg-black text-white font-rubik;
 }
 
 .container {
@@ -36,4 +34,18 @@ ol {
 
 summary {
     @apply mx-10;
+}
+
+.main a {
+    border-bottom: 1px solid #e37435;
+    font-weight: 500;
+}
+
+.main a:hover,
+.main a:focus {
+    @apply text-white bg-orange;
+    text-decoration: none;
+    -webkit-transition: all .3s cubic-bezier(.79, .4, .32, 1.84);
+    -o-transition: all .3s cubic-bezier(.79, .4, .32, 1.84);
+    transition: all .3s cubic-bezier(.79, .4, .32, 1.84);
 }
