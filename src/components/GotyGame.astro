@@ -17,24 +17,24 @@ type Props = {
 const { game, image, metascore, urlgame, openscore, urlmeta, urlopen, developer, place, userscore } = Astro.props;
 ---
 
-<div class="mx-auto overflow-hidden card pb-2 mt-8">
+<div class="mx-auto overflow-hidden card pb-2">
     <div class="md:flex">
         <div class="sm:shrink-0">
-            <img class="max-h-48 object-cover rounded-xl" src={image} alt={game} title={game}>
+            <img class="h-40 w-28 object-cover rounded-xl" src={image} alt={game} title={game}>
         </div>
         <div class="pl-4">
-            <h2 id={game}>
+            <h2 class="pt-0 pb-2" id={game}>
                 <a class="border-b-0" href={urlgame} target="_blank">
                     {place}. {game}
                 </a>
             </h2>
-            <p class="block mt-1 text-lg leading-tight font-medium">
+            <p class="block py-2 text-xl leading-tight font-medium">
                 {developer}
             </p>
-        <ul>
-            <li><a href={urlmeta} target="_blank">Metacritic</a>: Metascore {metascore}, User Score {userscore}</li>
-            <li><a href={urlopen} target="_blank">OpenCritic</a>: {openscore}</li>
-        </ul>
+            <ul>
+                <li><a href={urlmeta} target="_blank">Metacritic</a>: Metascore {metascore}, User Score {userscore}</li>
+                <li><a href={urlopen} target="_blank">OpenCritic</a>: {openscore}</li>
+            </ul>
         </div>
     </div>
 </div>
