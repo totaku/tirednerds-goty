@@ -13,6 +13,7 @@ body {
 .container {
     width: min(100% - 1rem, 960px);
     margin-inline: auto;
+    @apply mb-12;
 }
 
 h1 {
@@ -21,4 +22,13 @@ h1 {
 
 h2 {
     @apply text-4xl pt-8 pb-4 font-semibold;
+}
+
+ol {
+    @apply ml-14;
+    list-style: symbols;
+}
+
+summary {
+    @apply mx-10;
 }
