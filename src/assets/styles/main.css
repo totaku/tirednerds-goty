@@ -44,3 +44,7 @@ ol :has(li > a:focus) {
     -o-transition: all .3s cubic-bezier(.79, .4, .32, 1.84);
     transition: all .3s cubic-bezier(.79, .4, .32, 1.84);
 }
+
+summary {
+    @apply my-2 bg-black inline-block py-1 px-2 rounded-md;
+}
