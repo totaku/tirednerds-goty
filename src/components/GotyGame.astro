@@ -18,20 +18,20 @@ const { game, image, metascore, urlgame, openscore, urlmeta, urlopen, developer,
 ---
 
 <div class="mx-auto overflow-hidden card pb-2">
-    <div class="md:flex">
-        <div class="sm:shrink-0">
-            <img class="h-40 w-28 object-cover rounded-xl" src={image} alt={game} title={game}>
+    <div class="flex">
+        <div class="flex-shrink">
+            <img class="sm:h-40 sm:w-28 h-16 aspect-square sm:aspect-auto object-cover rounded-xl" src={image} alt={game} title={game}>
         </div>
         <div class="pl-4">
-            <h2 class="pt-0 pb-2" id={game}>
+            <h2 class="pt-0 pb-2 text-xl sm:text-4xl" id={game}>
                 <a class="border-b-0" href={urlgame} target="_blank">
                     {place}. {game}
                 </a>
             </h2>
-            <p class="block py-2 text-xl leading-tight font-medium">
+            <p class="block py-2 text-md sm:text-xl leading-tight font-medium hidden sm:block">
                 {developer}
             </p>
-            <ul>
+            <ul class="hidden sm:inline-block">
                 <li><a href={urlmeta} target="_blank">Metacritic</a>: Metascore {metascore}, User Score {userscore}</li>
                 <li><a href={urlopen} target="_blank">OpenCritic</a>: {openscore}</li>
             </ul>
