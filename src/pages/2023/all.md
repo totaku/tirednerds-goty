@@ -11,7 +11,7 @@ date: "09 Aug 2022"
 4. [Premios Xataka Orange (ES)](https://www.xataka.com/xataka/69-productos-tecnologicos-ano-estos-ganadores-premios-xataka-nordvpn-2023)
 5. [TechTudo (BR)](https://www.techtudo.com.br/noticias/2023/11/melhor-celular-e-notebook-de-2023-veja-os-vencedores-do-premio-do-techtudo.ghtml)
 <details>
-  <summary>Click me</summary>
+  <summary>Подробнее</summary>
 
 6. [TechTudo (BR) (Readers’ Choice)](https://www.techtudo.com.br/noticias/2023/11/melhor-celular-e-notebook-de-2023-veja-os-vencedores-do-premio-do-techtudo.ghtml)
 7. [3DJuegos (ES)](https://www.3djuegos.com/eventos/noticias/estos-mejores-videojuegos-ano-todos-lanzamientos-galardonados-premios-3djuegos-lenovo-2023)
@@ -220,7 +220,7 @@ date: "09 Aug 2022"
 4. [TrueGaming (SA)](https://www.true-gaming.net/home/551869/the-legend-of-zelda-tears-of-the-kingdom-%d8%aa%d9%81%d9%88%d8%b2-%d8%a8%d8%ac%d8%a7%d8%a6%d8%b2%d8%a9-%d9%84%d8%b9%d8%a8%d8%a9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85-%d9%81%d9%8a-%d8%ad%d9%81%d9%84-%d8%ac/)
 5. [Augustman (SG)](https://overplay.com.br/melhores-do-ano-overplay-2023-vencedores/)
 <details>
-  <summary>Click me</summary>
+  <summary>Подробнее</summary>
 
 6. [Overplay (BR)](https://overplay.com.br/melhores-do-ano-overplay-2023-vencedores/)
 7. [Polygon (US)](https://www.polygon.com/23648669/best-video-games-2023)
@@ -300,7 +300,7 @@ date: "09 Aug 2022"
 4. [Paste Magazine (US)](https://www.pastemagazine.com/games/best-games/the-best-games-of-2023)
 5. [Overplay (BR)](https://overplay.com.br/melhores-do-ano-overplay-2023-vencedores/)
 <details>
-  <summary>Click me</summary>
+  <summary>Подробнее</summary>
 
 6. [Slant Magazine (US)](https://www.slantmagazine.com/features/the-25-best-video-games-of-2023/amp/)
 7. [NME (UK)](https://www.nme.com/features/gaming-features/best-games-2023-switch-xbox-playstation-pc-3551161)
@@ -355,7 +355,7 @@ date: "09 Aug 2022"
 4. [FinalWeapon (US)](https://finalweapon.net/2023/12/29/final-weapon-awards-2023-game-of-the-year/)
 5. [Video Games 2 the MAX (US)](https://www.youtube.com/watch?v=bp_83UB8r8A&ab_channel=W2MNetwork)
 <details>
-  <summary>Click me</summary>
+  <summary>Подробнее</summary>
 
 6. [SomHráč (SK)](https://somhrac.sk/2024/01/01/hry-roku-2023-podla-redakcie-somhrac-sk/)
 7. [Gamers Lucky (IT)](https://youtu.be/kPXxaZ8y45I?si=kaTPvrCjOAsbXyn5&t=916)
@@ -370,7 +370,7 @@ date: "09 Aug 2022"
 4. [Eurogamer Portugal (PT) (Readers’ Choice)](https://www.eurogamer.pt/eis-o-goty-2023-dos-leitores-eurogamer-portugal)
 5. [Quest Daily (AU)](https://questdaily.com.au/gaming/quest-dailys-game-of-the-year-2023/)
 <details>
-  <summary>Click me</summary>
+  <summary>Подробнее</summary>
 
 6. [Game+ (ES)](https://gameplusblog.es/especial-game-awards-2023/)
 7. [Cinelinx (US)](https://www.cinelinx.com/news/culture/cinelinx-video-game-awards-2023/2/#5/13/)
