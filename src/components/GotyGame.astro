@@ -12,9 +12,10 @@ type Props = {
     urlopen: string;
     developer: string;
     place: string;
+    awards: string;
 };
 
-const { game, image, metascore, urlgame, openscore, urlmeta, urlopen, developer, place, userscore } = Astro.props;
+const { game, image, metascore, urlgame, openscore, urlmeta, urlopen, developer, place, userscore, awards } = Astro.props;
 ---
 
 <div class="mx-auto overflow-visible card pb-2">
@@ -28,10 +29,11 @@ const { game, image, metascore, urlgame, openscore, urlmeta, urlopen, developer,
                     {place}. {game}
                 </a>
             </h2>
-            <p class="py-2 text-md sm:text-xl leading-tight font-medium hidden sm:block">
+            <p class="py-1 text-md sm:text-xl leading-tight font-medium hidden sm:block">
                 {developer}
             </p>
             <ul class="hidden sm:inline-block">
+                <li><span class="font-medium">Награды</span>: {awards}</li>
                 <li><a href={urlmeta} target="_blank">Metacritic</a>: Metascore {metascore}, User Score {userscore}</li>
                 <li><a href={urlopen} target="_blank">OpenCritic</a>: {openscore}</li>
             </ul>
