@@ -2,58 +2,61 @@
 import Button from "./Button.astro";
 import Goty from "./Goty.astro";
 ---
-<h2>
-    Главные игры года
-</h2>
-<div class="bg-gray rounded-2xl sm:p-4 px-2  my-6">
-    <div class="grid md:grid-cols-2 md:grid-rows-2 gap-4">
-        <div class="md:row-span-2 mt-2 md:mt-0">
-            <Goty 
-                game="Baldur's Gate 3" 
-                image="/img/baldurs-gate-3.jpg" 
-                award="203"
-                place="1"
-                url="2023/all#1-baldurs-gate-3"
-            />
-        </div>
-        <div >
-            <Goty 
-                game="The Legend of Zelda: Tears of the Kingdom" 
-                image="/img/tears-of-the-kingdom.jpg" 
-                award="74"
-                place="2"
-                url="2023/all#2-the-legend-of-zelda-tears-of-the-kingdom"
-            />
-        </div>
-        <div>
-            <Goty 
-                game="Alan Wake 2" 
-                image="/img/alan-wake-2.jpg" 
-                award="49"
-                place="3"
-                url="2023/all#3-alan-wake-2"
-            />
-        </div>
-        <div>
-            <Goty 
-                game="Resident Evil 4 (2023)" 
-                image="/img/resident-evil-4-remake-2023.jpg" 
-                award="9"
-                place="4"
-                url="2023/all#3-alan-wake-2"
-            />
-        </div>
-        <div>
-            <Goty 
-                game="Marvel’s Spider-Man 2" 
-                image="/img/marvels-spider-man-2.jpg" 
-                award="9"
-                place="5"
-                url="2023/all#3-alan-wake-2"
-            />
-        </div>
-        <div class="md:row-span-2">
-            <Button url="2023/all" title="Все игры" />
+
+<div class="goty">
+    <h2>
+        Главные игры года
+    </h2>
+    <div class="bg-gray rounded-2xl sm:p-4 px-2 my-6 sm:my-4">
+        <div class="grid md:grid-cols-2 md:grid-rows-2 gap-4">
+            <div class="md:row-span-2 mt-2 md:mt-0">
+                <Goty 
+                    game="Baldur's Gate 3" 
+                    image="/img/baldurs-gate-3.jpg" 
+                    award="203"
+                    place="1"
+                    url="2023/all#1-baldurs-gate-3"
+                />
+            </div>
+            <div >
+                <Goty 
+                    game="The Legend of Zelda: Tears of the Kingdom" 
+                    image="/img/tears-of-the-kingdom.jpg" 
+                    award="74"
+                    place="2"
+                    url="2023/all#2-the-legend-of-zelda-tears-of-the-kingdom"
+                />
+            </div>
+            <div>
+                <Goty 
+                    game="Alan Wake 2" 
+                    image="/img/alan-wake-2.jpg" 
+                    award="49"
+                    place="3"
+                    url="2023/all#3-alan-wake-2"
+                />
+            </div>
+            <div>
+                <Goty 
+                    game="Resident Evil 4 (2023)" 
+                    image="/img/resident-evil-4-remake-2023.jpg" 
+                    award="9"
+                    place="4"
+                    url="2023/all#3-alan-wake-2"
+                />
+            </div>
+            <div>
+                <Goty 
+                    game="Marvel’s Spider-Man 2" 
+                    image="/img/marvels-spider-man-2.jpg" 
+                    award="9"
+                    place="5"
+                    url="2023/all#3-alan-wake-2"
+                />
+            </div>
+            <div class="md:row-span-2">
+                <Button url="2023/all" title="Все игры" />
+            </div>
         </div>
     </div>
 </div>
