@@ -5,6 +5,7 @@ export default {
 		extend: {
             colors: {
                 'black': '#191C1F',
+                'black-900': '141518',
                 'gray': '#2D3338',
                 'white': '#ECF0F1',
                 'orange': '#E37435',
