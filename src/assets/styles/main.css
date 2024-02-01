@@ -19,14 +19,6 @@ body {
     @apply mb-12;
 }
 
-h1 {
-    @apply text-5xl pt-8 pb-4 font-semibold;
-}
-
-h2 {
-    @apply text-4xl pt-8 pb-4 font-semibold;
-}
-
 ol {
     @apply list-decimal ml-5;
 }
@@ -46,5 +38,5 @@ ol :has(li > a:focus) {
 }
 
 summary {
-    @apply my-2 bg-black inline-block py-1 px-2 rounded-md;
+    @apply my-2 bg-black inline-block py-1 px-2 rounded-md cursor-pointer;
 }
