@@ -11,10 +11,12 @@ const { game, award, image, place, url } = Astro.props;
 ---
 
 <div class="relative h-full bg-gray-800">
-    <img class="object-cover h-full opacity-50 rounded-xl" 
-        src={image} 
-        alt={game}
-    />
+    <a href={url}>
+        <img class="object-cover h-full opacity-50 rounded-xl" 
+            src={image} 
+            alt={game}
+        />
+    </a>
     <h2 class="absolute bottom-4 right-4 max-w-90 text-4xl text-balance text-right">
         <a class="border-b-0" href={url}>{game}</a>
     </h2>
