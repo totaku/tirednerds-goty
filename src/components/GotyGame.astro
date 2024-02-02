@@ -35,7 +35,7 @@ const { game, image, metascore, urlgame, openscore, urlmeta, urlopen, developer,
 <div class="mx-auto overflow-visible card pb-2">
     <div class="flex">
         <div class="flex-shrink">
-            <img class="sm:h-40 sm:w-28 h-16 aspect-square sm:aspect-auto object-cover rounded-xl" src={image} alt={game} title={game}>
+            <img class="sm:h-44 sm:w-32 h-16 aspect-square sm:aspect-auto object-cover rounded-xl" src={image} alt={game} title={game}>
         </div>
         <div class="pl-4 self-center">
             <h2 class="pt-0 w-72 sm:w-full pb-2 text-xl sm:text-3xl" id={game}>
@@ -43,7 +43,7 @@ const { game, image, metascore, urlgame, openscore, urlmeta, urlopen, developer,
                     {place}. {game}
                 </a>
             </h2>
-            <div class="hidden sm:flex place-items-center content-center">
+            <div class="py-2 hidden sm:flex place-items-center content-center">
                 <div class={hide_yt}>
                     <a href={url_yt} target="_blank" title="Посмотреть трейлер на YouTube">
                         <svg class="fill-white mr-2 w-5" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">
@@ -96,7 +96,7 @@ const { game, image, metascore, urlgame, openscore, urlmeta, urlopen, developer,
                     </a>
                 </div>
             </div>
-            <p class="py-1 text-md sm:text-xl leading-tight font-medium hidden sm:block mr-2">
+            <p class="pt-2 pb-1 text-md sm:text-xl leading-tight font-medium hidden sm:block mr-2">
                     {developer}
                 </p>
             <ul class="hidden sm:inline-block">
