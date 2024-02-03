@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: "TIME назвала лучшие игры 2023 года"
-pubDate: 2023-11-29
+date: 2023-11-29T20:00:00+03:00
 image: "/img/posts/time-best-video-games-2023.jpg"
 ---
 

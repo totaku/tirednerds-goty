@@ -28,11 +28,11 @@ h3 {
 }
 
 ol {
-    @apply list-inside list-decimal;
+    @apply list-inside list-decimal mb-4;
 }
 
 ul {
-    @apply list-inside list-disc;
+    @apply list-inside list-disc mb-4;
 }
 
 a {

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: "10 лучших игр 2023 года по версии GameSpot"
-pubDate: 2023-12-5
+date: 2023-12-05T20:00:00+03:00
 image: "/img/posts/gamespots-10-best-games-of-2023.jpg"
 ---
 

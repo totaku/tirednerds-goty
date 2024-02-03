@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: "Polygon объявили 50 лучших игр 2023 года"
-pubDate: 2023-12-5
+date: 2023-12-05T20:00:00+03:00
 image: "/img/posts/polygon-best-video-games-2023.jpg"
 ---
 
