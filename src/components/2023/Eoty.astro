@@ -1,0 +1,21 @@
+---
+const allPosts = await Astro.glob('../../pages/2023/*.md');
+---
+
+<div class="eoty">
+    <h2 class="text-4xl pt-8 pb-4 font-semibold">
+        Все итоги 2023 года
+    </h2>
+        <div class="grid md:grid-cols-3 gap-4 bg-gray rounded-2xl sm:p-4 px-2 my-6 sm:my-4">
+            {allPosts.map((post) => 
+                <div class="relative bg-black">
+                    <a href={post.url}>
+                        <img class="object-cover h-full opacity-20 rounded-xl" src={post.frontmatter.image} alt={post.frontmatter.title}>
+                        <div class="absolute bottom-2 left-2 max-w-90 text-2xl text-balance">
+                            <h3>{post.frontmatter.title}</h3>
+                        </div>
+                    </a>
+                </div>
+            )}
+        </div>
+</div>

@@ -19,8 +19,20 @@ body {
     @apply mb-12;
 }
 
+h3 {
+    @apply text-2xl font-semibold mb-4;
+}
+
+.main p {
+    @apply mb-4;
+}
+
 ol {
-    @apply list-decimal ml-5;
+    @apply list-inside list-decimal;
+}
+
+ul {
+    @apply list-inside list-disc;
 }
 
 a {
