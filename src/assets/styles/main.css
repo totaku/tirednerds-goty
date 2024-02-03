@@ -31,6 +31,10 @@ ol {
     @apply list-inside list-decimal mb-4;
 }
 
+.goty ol {
+    @apply list-inside list-decimal mb-0;
+}
+
 ul {
     @apply list-inside list-disc mb-4;
 }
