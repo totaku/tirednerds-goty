@@ -66,10 +66,10 @@ const { game, image, metascore, urlgame, openscore, urlmeta, urlopen, developer,
                     </a>
                 </div>
             </div>
-            <p class="pt-2 pb-1 text-md sm:text-xl leading-tight font-medium hidden sm:block mr-2">
-                    {developer}
-                </p>
-            <ul class="hidden sm:inline-block">
+            <div class="pt-2 pb-1 text-md sm:text-xl leading-tight font-medium hidden sm:block mr-2">
+                {developer}
+            </div>
+            <ul class="hidden sm:inline-block list-none">
                 <li><span class="font-medium">Наград</span>: {awards}</li>
                 <li><span class="font-medium">Оценки</span>: <a class="font-normal border-b-0" href={urlmeta} target="_blank">Metacritic</a> {metascore}|{userscore}, <a class="font-normal border-b-0" href={urlopen} target="_blank">OpenCritic</a> {openscore}</li>
             </ul>
