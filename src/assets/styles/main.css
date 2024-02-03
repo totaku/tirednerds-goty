@@ -16,7 +16,6 @@ body {
 .container {
     width: min(100% - 1rem, 960px);
     margin-inline: auto;
-    @apply mb-12;
 }
 
 h3 {
