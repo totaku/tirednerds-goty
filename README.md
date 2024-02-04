@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2a370f54-2adf-4965-bcd0-a104a3316b14/deploy-status)](https://app.netlify.com/sites/tirednerds-goty/deploys)
+
 # Astro Starter Kit: Minimal
 
 ```sh
