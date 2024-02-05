@@ -6,7 +6,7 @@ const { frontmatter } = Astro.props;
 <Layout pageTitle={frontmatter.title}>
     <article class="goty">
         <h1 class="text-5xl pt-8 pb-4 font-semibold">{frontmatter.title}</h1>
-        <img class="mb-4" src={frontmatter.image} alt="">
+        <p class="text-lg sm:text-xl">{frontmatter.totalGames} игр получили суммарно {frontmatter.totalAwards} наград «Игра года»</p>
         <slot />
     </article>
 </Layout>
