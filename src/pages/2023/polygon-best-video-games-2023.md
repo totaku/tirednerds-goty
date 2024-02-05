@@ -9,7 +9,7 @@ image: "/img/posts/polygon-best-video-games-2023.jpg"
 
 Голосование редакции Polygon завершилось 30 ноября, в связи с чем в топ не вошли декабрьские релизы вроде Avatar: Frontiers of Pandora и Warhammer 40,000: Rogue Trader. Именно по этой причине в рейтинг попало несколько игр 2022-го.
 
-### Топ-50 лучших игр 2023 года по версии Polygon
+## Топ-50 лучших игр 2023 года по версии Polygon
 
 1.  The Legend of Zelda: Tears of the Kingdom
 2.  Baldur's Gate 3

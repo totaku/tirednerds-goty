@@ -9,7 +9,7 @@ image: "/img/posts/ign-best-video-games-2023.jpg"
 
 Другими номинантами на звание «Игра года» были Baldur's Gate 3, Alan Wake 2, Cyberpunk 2077: Phantom Liberty и ремейк Resident Evil 4. Некоторые из них стали победителями в других категориях.
 
-### Победители в других номинациях IGN
+## Победители в других номинациях IGN
 
 -   Alan Wake 2 — лучший игровой хоррор; лучшая игра на Xbox
 -   Baldur's Gate 3 — лучшая RPG; лучшая игра на ПК и PlayStation  

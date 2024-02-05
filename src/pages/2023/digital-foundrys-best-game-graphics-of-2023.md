@@ -7,7 +7,7 @@ image: "/img/posts/digital-foundrys-best-game-graphics-of-2023.jpg"
 
 Специалисты Digital Foundry [опубликовали](https://youtu.be/XtxfJHVKFas) видео, в котором подвели итоги 2023 года и выбрали игры с лучшей графикой.
 
-### Топ 3 игр 2023 года с лучшей графикой
+## Топ 3 игр 2023 года с лучшей графикой
 
 1. Avatar: Frontiers of Pandora
 2. Alan Wake 2

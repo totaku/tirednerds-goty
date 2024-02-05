@@ -7,7 +7,7 @@ image: "/img/posts/golden-joystick-awards-2023.jpg"
 
 Победителей премии Golden Joystick Awards 2023 [объявили](https://www.gamesradar.com/golden-joystick-awards-2023-winners/) 10 ноября в ходе церемонии, которая прошла в Лондоне. Ведущим мероприятия выступил Трой Бейкер. Голосование проходило среди игроков на сайте GamesRadar — принять участие в нём могли все желающие.
 
-### Лучшая игра года
+## Лучшая игра года
 
 -   🏆 **Baldur's Gate 3**
 -   The Legend of Zelda: Tears of the Kingdom
@@ -30,7 +30,7 @@ image: "/img/posts/golden-joystick-awards-2023.jpg"
 -   Dead Space
 -   Sea of Stars
 
-### Игра года на Nintendo Switch
+## Игра года на Nintendo Switch
 
 -   🏆 **The Legend of Zelda: Tears of the Kingdom**
 -   Pikmin 4
@@ -39,7 +39,7 @@ image: "/img/posts/golden-joystick-awards-2023.jpg"
 -   Octopath Traveller II
 -   Fae Farm
 
-### Игра года на ПК
+## Игра года на ПК
 
 -   🏆 **Baldur's Gate 3**
 -   Diablo IV
@@ -48,7 +48,7 @@ image: "/img/posts/golden-joystick-awards-2023.jpg"
 -   System Shock
 -   Shadow Gambit: The Cursed Crew
 
-### Игра года на PlayStation
+## Игра года на PlayStation
 
 -   🏆 **Resident Evil 4**
 -   Final Fantasy XVI
@@ -57,7 +57,7 @@ image: "/img/posts/golden-joystick-awards-2023.jpg"
 -   Armored Core VI: Fires Of Rubicon
 -   Star Wars Jedi: Survivor
 
-### Игра года на Xbox
+## Игра года на Xbox
 
 -   🏆 **Starfield**
 -   Chants of Sennaar
@@ -66,7 +66,7 @@ image: "/img/posts/golden-joystick-awards-2023.jpg"
 -   Dead Space
 -   Pentiment
 
-### Лучший звук
+## Лучший звук
 
 -   🏆 **Final Fantasy XVI**
 -   Stray Gods
@@ -75,7 +75,7 @@ image: "/img/posts/golden-joystick-awards-2023.jpg"
 -   Starfield
 -   The Legend of Zelda: Tears of the Kingdom
 
-### Лучший сюжет
+## Лучший сюжет
 
 -   🏆 **Baldur's Gate 3**
 -   The Cosmic Wheel Sisterhood
@@ -84,7 +84,7 @@ image: "/img/posts/golden-joystick-awards-2023.jpg"
 -   PARANORMASIGHT: The Seven Mysteries of Honjo
 -   Star Wars Jedi: Survivor
 
-### Лучшее игровое сообщество
+## Лучшее игровое сообщество
 
 -   🏆 **Baldur's Gate 3**
 -   Final Fantasy XIV
@@ -93,7 +93,7 @@ image: "/img/posts/golden-joystick-awards-2023.jpg"
 -   Dreams
 -   The Legend of Zelda: Tears of the Kingdom
 
-### Лучшее дополнение
+## Лучшее дополнение
 
 -   🏆 **Cyberpunk 2077: Phantom Liberty**
 -   Power Wash Simulator DLC
@@ -102,7 +102,7 @@ image: "/img/posts/golden-joystick-awards-2023.jpg"
 -   Dead Cells: Return to Castlevania
 -   A Little to the Left: Cupboards & Drawers
 
-### Лучшее «железо»
+## Лучшее «железо»
 
 -   🏆 **PlayStation VR2**
 -   Turtle Beach Stealth Pro Headset
@@ -111,7 +111,7 @@ image: "/img/posts/golden-joystick-awards-2023.jpg"
 -   ASUS ROG Strix Scope II 96
 -   Samsung 990 PRO
 
-### Лучшая инди-игра
+## Лучшая инди-игра
 
 -   🏆 **Sea of Stars**
 -   Dave the Diver
@@ -120,7 +120,7 @@ image: "/img/posts/golden-joystick-awards-2023.jpg"
 -   Cocoon
 -   Viewfinder
 
-### Лучшая многопользовательская игра
+## Лучшая многопользовательская игра
 
 -   🏆 **Mortal Kombat 1**
 -   Exoprimal
@@ -129,7 +129,7 @@ image: "/img/posts/golden-joystick-awards-2023.jpg"
 -   Remnant II
 -   We Were Here Expeditions: The FriendShip
 
-### Лучший визуальный дизайн
+## Лучший визуальный дизайн
 
 -   🏆 **Baldur's Gate 3**
 -   Starfield
@@ -138,7 +138,7 @@ image: "/img/posts/golden-joystick-awards-2023.jpg"
 -   Lies Of P
 -   Street Fighter 6
 
-### Лучшая поддержка
+## Лучшая поддержка
 
 -   🏆 **No Man's Sky**
 -   Genshin Impact
@@ -153,7 +153,7 @@ image: "/img/posts/golden-joystick-awards-2023.jpg"
 -   Dota 2
 -   Call of Duty
 
-### Студия года
+## Студия года
 
 -   🏆 **Larian Studios**
 -   Digital Eclipse
@@ -162,7 +162,7 @@ image: "/img/posts/golden-joystick-awards-2023.jpg"
 -   Remedy Entertainment
 -   CD Projekt Red
 
-### Лучший трейлер
+## Лучший трейлер
 
 -   [🏆 **Cyberpunk 2077: Phantom Liberty — Official Cinematic Trailer**](https://www.youtube.com/watch?v=sJbexcm4Trk)
 -   [Alan Wake 2 — The Dark Place Gameplay Trailer](https://www.youtube.com/watch?v=Zv4g044SP7s)
@@ -171,7 +171,7 @@ image: "/img/posts/golden-joystick-awards-2023.jpg"
 -   [Mortal Kombat 1 — Official It's In Our Blood Trailer](https://www.youtube.com/watch?v=BBH_KrEFetA)
 -   [Dave the Diver — Official Release Month And Accolades Trailer](https://www.youtube.com/watch?v=qh0keDAVMuc)
 
-### Самая ожидаемая игра
+## Самая ожидаемая игра
 
 -   🏆 **Final Fantasy VII Rebirth**
 -   Death Stranding 2
@@ -194,7 +194,7 @@ image: "/img/posts/golden-joystick-awards-2023.jpg"
 -   Banishers: Ghosts of New Eden
 -   Warhammer Age of Sigmar: Realms of Ruin
 
-### Лучшая VR-игра
+## Лучшая VR-игра
 
 -   🏆 **Horizon Call of the Mountain VR**
 -   C-Smash VRS
@@ -203,19 +203,19 @@ image: "/img/posts/golden-joystick-awards-2023.jpg"
 -   F1 23 VR
 -   The Light Brigade
 
-### Выбор стримеров
+## Выбор стримеров
 
 -   🏆 **Valorant**
 
-### Прорыв года
+## Прорыв года
 
 -   🏆 **Cocoon**
 
-### Выбор критиков
+## Выбор критиков
 
 -   🏆 **Alan Wake 2**
 
-### Лучший исполнитель главной роли
+## Лучший исполнитель главной роли
 
 -   🏆 **Бен Старр — Клайв Розфилд в Final Fantasy XVI**
 -   Наджи Джетер — Майлз Моралес в Marvel's Spider-Man 2
@@ -225,7 +225,7 @@ image: "/img/posts/golden-joystick-awards-2023.jpg"
 -   Юрий Ловенталь — Питер Паркер в Marvel's Spider-Man 2
 -   Камерон Монахэн — Кэл Кестис в Star Wars Jedi: Survivor
 
-### Лучший исполнитель второго плана
+## Лучший исполнитель второго плана
 
 -   🏆 **Нил Ньюбон — Астарион в Baldur's Gate 3**
 -   Идрис Эльба — Соломон Рид в Cyberpunk 2077: Phantom Liberty

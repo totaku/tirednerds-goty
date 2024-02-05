@@ -7,7 +7,7 @@ image: "/img/posts/here-are-eurogamers-favourite-games-of-2023.jpg"
 
 Сайт Eurogamer [составил](https://www.eurogamer.net/here-are-eurogamers-favourite-games-of-2023) список из 50 лучших игр 2023 года по версии сотрудников редакции. Они распределили по местам 10 первых игр, а остальные расположили в отдельном списке в алфавитном порядке.
 
-### 10 лучших игр 2023 года по версии Eurogamer
+## 10 лучших игр 2023 года по версии Eurogamer
 
 1.  Cocoon
 2.  Baldur's Gate 3  
@@ -20,7 +20,7 @@ image: "/img/posts/here-are-eurogamers-favourite-games-of-2023.jpg"
 9.  Shadow Gambit: The Cursed Crew  
 10.  Alan Wake 2  
 
-### Другие 40 лучших игр 2023 года по версии Eurogamer
+## Другие 40 лучших игр 2023 года по версии Eurogamer
 
 -   Against the Storm
 -   A Highland Song  

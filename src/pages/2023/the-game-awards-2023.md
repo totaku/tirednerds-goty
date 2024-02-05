@@ -7,7 +7,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 
 В ночь на 8 декабря в Лос-Анджелесе [прошла](https://thegameawards.com/) церемония вручения премии The Game Awards 2023.
 
-### Игра года
+## Игра года
 
 -   🏆 **Baldur's Gate 3**
 -   Alan Wake 2
@@ -16,7 +16,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Super Mario Bros. Wonder
 -   The Legend of Zelda: Tears of the Kingdom
 
-### Лучшая поддержка игры
+## Лучшая поддержка игры
 
 -   🏆 **Cyberpunk 2077**
 -   Apex Legends
@@ -24,7 +24,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Fortnite
 -   Genshin Impact
 
-### Лучший арт
+## Лучший арт
 
 -   🏆 **Alan Wake 2**
 -   Hi-Fi RUSH
@@ -32,7 +32,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Super Mario Bros. Wonder
 -   The Legend of Zelda: Tears of the Kingdom
 
-### Лучший саундтрек и музыка
+## Лучший саундтрек и музыка
 
 -   🏆 **Final Fantasy XVI**
 -   Alan Wake 2
@@ -40,7 +40,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Hi-Fi RUSH
 -   The Legend of Zelda: Tears of the Kingdom
 
-### Лучшая поддержка сообщества
+## Лучшая поддержка сообщества
 
 -   🏆 **Baldur's Gate 3**
 -   Cyberpunk 2077
@@ -48,7 +48,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Final Fantasy XIV
 -   No Man's Sky
 
-### Лучшая инди-игра
+## Лучшая инди-игра
 
 -   🏆 **Sea of Stars**
 -   Cocoon
@@ -56,7 +56,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Dredge
 -   Viewfinder
 
-### Лучшая дебютная инди-игра
+## Лучшая дебютная инди-игра
 
 -   🏆 **Cocoon**
 -   Dredge
@@ -64,7 +64,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Venba
 -   Viewfinder
 
-### Лучший приключенческий экшен
+## Лучший приключенческий экшен
 
 -   🏆 **The Legend of Zelda: Tears of the Kingdom**
 -   Alan Wake 2
@@ -72,7 +72,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Resident Evil 4
 -   Star Wars Jedi: Survivor
 
-### Лучшая RPG
+## Лучшая RPG
 
 -   🏆 **Baldur's Gate 3**
 -   Final Fantasy XVI
@@ -80,7 +80,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Sea of Stars
 -   Starfield
 
-### Лучший экшен
+## Лучший экшен
 
 -   🏆 **Armored Core VI: Fires Of Rubicon**
 -   Dead Island 2
@@ -88,7 +88,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Hi-Fi RUSH
 -   Remnant II
 
-### Лучшая работа геймдиректора
+## Лучшая работа геймдиректора
 
 -   🏆 **Alan Wake 2**
 -   Baldur's Gate 3
@@ -96,7 +96,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Super Mario Bros. Wonder
 -   The Legend of Zelda: Tears of the Kingdom
 
-### Лучший файтинг
+## Лучший файтинг
 
 -   🏆 **Street Fighter 6**
 -   God of Rock
@@ -104,7 +104,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Nickelodeon All-Star Brawl 2
 -   Pocket Bravery
 
-### Лучшая семейная игра
+## Лучшая семейная игра
 
 -   🏆 **Super Mario Bros. Wonder**
 -   Disney Illusion Island
@@ -112,7 +112,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Pikmin 4
 -   Sonic Superstars
 
-### Лучший симулятор или стратегия
+## Лучший симулятор или стратегия
 
 -   🏆 **Pikmin 4**
 -   Cities: Skylines II
@@ -120,7 +120,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Fire Emblem Engage
 -   Advance Wars 1+2: Re-Boot Camp
 
-### Лучшая спортивная или гоночная игра
+## Лучшая спортивная или гоночная игра
 
 -   🏆 **Forza Motorsport**
 -   EA Sports FC 24
@@ -128,7 +128,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Hot Wheels Unleashed 2: Turbocharged
 -   The Crew Motorfest
 
-### Лучший нарратив
+## Лучший нарратив
 
 -   🏆 **Alan Wake 2**
 -   Baldur's Gate 3
@@ -136,7 +136,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Final Fantasy XVI
 -   Marvel’s Spider-Man 2
 
-### Лучший дизайн звука
+## Лучший дизайн звука
 
 -   🏆 **Hi-Fi RUSH**
 -   Alan Wake 2
@@ -144,7 +144,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Marvel’s Spider-Man 2
 -   Resident Evil 4
 
-### Номинация Games for Impact — игры, затрагивающие социальные проблемы
+## Номинация Games for Impact — игры, затрагивающие социальные проблемы
 
 -   🏆 **Tchia**
 -   A Space for the Unbound
@@ -153,7 +153,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Terra Nil
 -   Venba
 
-### Лучшая мобильная игра
+## Лучшая мобильная игра
 
 -   🏆 **Honkai: Star Rail**
 -   Final Fantasy VII: Ever Crisis
@@ -161,7 +161,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Monster Hunter Now
 -   Terra Nil
 
-### Премия за инновации в области доступности для людей с ограниченными возможностями
+## Премия за инновации в области доступности для людей с ограниченными возможностями
 
 -   🏆 **Forza Motorsport**
 -   Diablo IV
@@ -170,7 +170,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Mortal Kombat 1
 -   Street Fighter 6
 
-### Лучшая актёрская игра
+## Лучшая актёрская игра
 
 -   🏆 **Нил Ньюбон (Астарион в Baldur's Gate 3)**
 -   Бен Старр (Клайв в Final Fantasy XVI)
@@ -179,7 +179,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Мелани Либёрд (Сага Андерсон в Alan Wake 2)
 -   Юрий Ловенталь (Питер Паркер в Marvel’s Spider-Man 2)
 
-### Лучший мультиплеер
+## Лучший мультиплеер
 
 -   🏆 **Baldur's Gate 3**
 -   Diablo IV
@@ -187,7 +187,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Street Fighter 6
 -   Super Mario Bros. Wonder
 
-### Лучшая адаптация
+## Лучшая адаптация
 
 -   🏆 **«Одни из нас»**
 -   «Кастлвания: Ноктюрн»
@@ -195,7 +195,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   «Братья Супер Марио в кино»
 -   «Скрежет металла»
 
-### Лучший стример / автор контента
+## Лучший стример / автор контента
 
 -   🏆 **@ironmouse**
 -   @chrisbratt / People Make Games
@@ -203,7 +203,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   @spreenDMC
 -   @sypherpk
 
-### Лучшая VR/AR-игра
+## Лучшая VR/AR-игра
 
 -   🏆 **Resident Evil Village VR Mode**
 -   Gran Turismo 7
@@ -211,7 +211,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Humanity
 -   Synapse
 
-### Самая ожидаемая игра
+## Самая ожидаемая игра
 
 -   🏆 **Final Fantasy VII Rebirth**
 -   Hades II
@@ -219,7 +219,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Star Wars Outlaws
 -   Tekken 8
 
-### Лучшая киберспортивная игра
+## Лучшая киберспортивная игра
 
 -   🏆 **Valorant**
 -   Counter-Strike 2
@@ -227,7 +227,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   League of Legends
 -   PUBG Mobile
 
-### Лучший киберспортсмен
+## Лучший киберспортсмен
 
 -   🏆 **Faker**
 -   Zywoo
@@ -236,7 +236,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Ruler
 -   Imperialhal
 
-### Лучшая киберспортивная команда
+## Лучшая киберспортивная команда
 
 -   🏆 **JD Gaming (League of Legends)**
 -   Evil Geniuses (Valorant)
@@ -244,7 +244,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   Gaimin Gladiators (Dota 2)
 -   Team Vitality (Counter-Strike)
 
-### Лучший киберспортивный тренер
+## Лучший киберспортивный тренер
 
 -   🏆 **Potter**
 -   Zonic
@@ -252,7 +252,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   XTQZZZ
 -   Homme
 
-### Лучшее киберспортивное соревнование
+## Лучшее киберспортивное соревнование
 
 -   🏆 **2023 League of Legends World Championship**
 -   Blast.TV Paris Major 2023
@@ -260,7 +260,7 @@ image: "/img/posts/the-game-awards-2023.jpg"
 -   The International 2023
 -   Valorant Championships 2023
 
-### «Голос игроков»
+## «Голос игроков»
 
 -   🏆 **Baldur’s Gate 3**
 -   Cyberpunk 2077: Phantom Liberty

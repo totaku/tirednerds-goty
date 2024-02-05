@@ -11,7 +11,7 @@ image: "/img/posts/time-best-video-games-2023.jpg"
 
 Тройку лидеров открыл супергеройский экшен Marvel's Spider-Man 2 от Insomniac Games, а вторую строчку взяла Baldur's Gate 3. Лучшей игрой сотрудники СМИ выбрали Alan Wake 2 — сюрреалистичный хоррор, который разработала финская студия Remedy.
 
-### Топ-10 лучших игр 2023 года по версии TIME
+## Топ-10 лучших игр 2023 года по версии TIME
 
 1.  Alan Wake 2
 2.  Baldur's Gate 3

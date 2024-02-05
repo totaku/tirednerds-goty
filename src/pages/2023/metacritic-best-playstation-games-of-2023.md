@@ -7,7 +7,7 @@ image: "/img/posts/metacritic-best-playstation-games-of-2023.jpg"
 
 Сотрудники агрегатора Metacritic [представили](https://www.metacritic.com/pictures/best-playstation-games-of-2023/) топ-20 самых высокооценённых игр, которые вышли на PS4 и PS5 в 2023 году. В первой пятёрке не оказалось эксклюзивов PlayStation — эти места заняли мультиплатформенные релизы.
 
-### Топ-20 самых высокооценённых игр 2023 года для PlayStation
+## Топ-20 самых высокооценённых игр 2023 года для PlayStation
 
 1.  **Baldur's Gate 3** — 96 баллов
 2.  **Tetris Effect: Connected** — 93 балла

@@ -7,7 +7,7 @@ image: "/img/posts/metacritic-best-nintendo-switch-games-of-2023.jpg"
 
 Metacritic [опубликовали](https://www.metacritic.com/pictures/best-nintendo-switch-games-of-2023/) список из 20 самых высокооценённых игр, вышедших на Nintendo Switch в 2023 году. Рейтинг сформирован на основе средних оценок, которые зарубежные СМИ выставили тайтлам в своих обзорах.
 
-### Топ-20 самых высокооценённых игр 2023 года для Nintendo Switch
+## Топ-20 самых высокооценённых игр 2023 года для Nintendo Switch
 
 1.  **The Legend of Zelda: Tears of the Kingdom** — 96 баллов
 2.  **Metroid Prime Remastered** — 94 балла

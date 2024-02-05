@@ -18,8 +18,12 @@ body {
     margin-inline: auto;
 }
 
-h3 {
+.post h2 {
     @apply text-2xl font-semibold mb-4;
+}
+
+.post h3 {
+    @apply text-xl font-semibold mb-4;
 }
 
 .main p {

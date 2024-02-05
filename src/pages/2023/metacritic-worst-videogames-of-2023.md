@@ -9,7 +9,7 @@ image: "/img/posts/metacritic-worst-videogames-of-2023.jpg"
 
 The Lord of the Rings: Gollum [стала](https://www.metacritic.com/pictures/worst-videogames-of-2023/9/) худшей игрой на Metacritic в 2023 году — её средняя оценка составила 34 балла из 100. Журналисты раскритиковали приключенческий стелс-экшен за общее низкое качество, многочисленные баги и устаревший геймдизайн. Игроки сошлись во мнении с критиками. Средняя оценка Gollum по версии пользователей Metacritic — 1,2 балла из 10.
 
-### 10 худших игр 2023 года на Metacritic
+## 10 худших игр 2023 года на Metacritic
 
 1.  **The Lord of the Rings: Gollum** — 34 балла из 100
 2.  **Flashback 2** — 35 баллов  
