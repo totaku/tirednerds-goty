@@ -11,7 +11,9 @@ allPosts.sort((a, b) => Date.parse(b.frontmatter.date) - Date.parse(a.frontmatte
             {allPosts.map((post) => 
                 <div class="relative">
                     <a href={post.url}>
-                        <img class="object-cover w-full h-48 opacity-20 rounded-xl" src={post.frontmatter.image} alt={post.frontmatter.title}>
+                        <div class="bg-black rounded-xl">
+                            <img class="object-cover w-full h-48 opacity-30 rounded-xl" src={post.frontmatter.image} alt={post.frontmatter.title}>
+                        </div>
                         <div class="absolute bottom-2 left-2 text-2xl text-balance">
                             <h2>{post.frontmatter.title}</h2>
                         </div>
