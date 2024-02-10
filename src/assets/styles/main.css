@@ -49,7 +49,7 @@ a {
 
 ol :has(li > a:hover),
 ol :has(li > a:focus) {
-    @apply text-white bg-orange;
+    @apply text-white bg-orange-500;
     text-decoration: none;
     -webkit-transition: all .3s cubic-bezier(.79, .4, .32, 1.84);
     -o-transition: all .3s cubic-bezier(.79, .4, .32, 1.84);
