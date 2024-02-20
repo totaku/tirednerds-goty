@@ -59,3 +59,16 @@ ol :has(li > a:focus) {
 summary {
     @apply my-2 bg-black inline-block py-1 px-2 rounded-md cursor-pointer;
 }
+
+iframe,
+object,
+embed {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.youtube-video {
+    width: 100%;
+    aspect-ratio: 16/9;
+    margin-bottom: 1rem;
+}
