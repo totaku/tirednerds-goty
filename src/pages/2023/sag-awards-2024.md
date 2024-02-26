@@ -128,3 +128,5 @@ image: "/img/posts/sag-awards-2024.jpg"
 -   «Барри»
 -   «Грызня»
 -   «Мандалорец»
+
+<iframe src="https://www.youtube.com/embed/6PnhabxMD58?si=R45uybD5zh8ZTcSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
