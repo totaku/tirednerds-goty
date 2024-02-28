@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    @apply bg-black text-white font-rubik;
+    @apply bg-bunker-950 text-white font-rubik;
 }
 
 .container {
@@ -57,7 +57,7 @@ ol :has(li > a:focus) {
 }
 
 summary {
-    @apply my-2 bg-black inline-block py-1 px-2 rounded-md cursor-pointer;
+    @apply my-2 bg-bunker-950 inline-block py-1 px-2 rounded-md cursor-pointer;
 }
 
 iframe,
