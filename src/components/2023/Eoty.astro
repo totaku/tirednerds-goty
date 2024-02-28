@@ -7,7 +7,7 @@ allPosts.sort((a, b) => Date.parse(b.frontmatter.date) - Date.parse(a.frontmatte
     <h2 class="text-4xl pt-8 pb-4 font-semibold">
         Все итоги 2023 года
     </h2>
-        <div class="grid md:grid-cols-3 sm:gap-4 gap-2 bg-gray rounded-2xl sm:p-4 p-2">
+        <div class="grid md:grid-cols-3 sm:gap-4 gap-2 bg-bunker-900 rounded-2xl sm:p-4 p-2">
             {allPosts.map((post) => 
                 <div class="relative">
                     <a href={post.url}>
