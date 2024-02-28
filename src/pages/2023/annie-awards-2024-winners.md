@@ -7,7 +7,7 @@ image: "/img/posts/annie-awards-2024-winners.jpg"
 
 В Лос-Анджелесе 17 февраля 2024 года [состоялась](https://annieawards.org/winners) 51-я церемония награждения «Энни», посвящённая анимации во всех её проявлениях. Интересно, что в этот раз полнометражные работы Disney не попали даже в ряды номинантов (такой вот [столетний юбилей компании](https://media.2x2tv.ru/disney-100-let/)). Зато пару наград утащила «Нимона», которую «Мышиный дом» пытался задушить. Фаворитом церемонии стал мультфильм «Человек-паук: Паутина вселенных» (возможно, он же возьмёт анимационный «Оскар»), а ещё члены жюри внезапно оценили клип Джека Блэка о видеоиграх.
 
-<iframe class="youtube-video" src="https://www.youtube.com/embed/GNJtPFXUnm4" title="Tenacious D - Video Games (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="yt" src="https://www.youtube.com/embed/GNJtPFXUnm4" title="Tenacious D - Video Games (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 -   Лучший полнометражный мультфильм — **[«Человек-паук: Паутина вселенных»](https://media.2x2tv.ru/spider-man-across-the-spider-verse/)**
 -   Лучший независимый полнометражный мультфильм — **[«Мечты робота»](https://media.2x2tv.ru/animaciya-bez-slov/)**
