@@ -1,0 +1,24 @@
+---
+const allPosts = await Astro.glob('../../pages/2022/*.md');
+allPosts.sort((a, b) => Date.parse(b.frontmatter.date) - Date.parse(a.frontmatter.date));
+---
+
+<div class="eoty">
+    <h2 class="text-4xl pt-8 pb-4 font-semibold">
+        Все итоги 2023 года
+    </h2>
+        <div class="grid md:grid-cols-3 sm:gap-4 gap-2 bg-bunker-900 rounded-2xl sm:p-4 p-2">
+            {allPosts.map((post) => 
+                <div class="relative">
+                    <a href={post.url}>
+                        <div class="bg-bunker-950 rounded-xl">
+                            <img class="object-cover w-full h-48 opacity-30 rounded-xl" src={post.frontmatter.image} alt={post.frontmatter.title}>
+                        </div>
+                        <div class="absolute bottom-2 left-2 text-2xl text-balance">
+                            <h2>{post.frontmatter.title}</h2>
+                        </div>
+                    </a>
+                </div>
+            )}
+        </div>
+</div>

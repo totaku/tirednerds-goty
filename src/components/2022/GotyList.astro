@@ -1,0 +1,62 @@
+---
+import Button from "../Button.astro";
+import Goty from "../Goty.astro";
+---
+
+<div class="goty">
+    <h2 class="text-4xl pt-8 pb-4 font-semibold">
+        Топ 5 игр 2022 года
+    </h2>
+    <div class="bg-bunker-900 rounded-2xl sm:p-4 px-2 my-6 sm:my-4">
+        <div class="grid md:grid-cols-2 md:grid-rows-2 gap-4">
+            <div class="md:row-span-2 mt-2 md:mt-0">
+                <Goty 
+                    game="Elden Ring" 
+                    image="/img/elden-ring.jpg" 
+                    award="435"
+                    place="1"
+                    url="/2022/goty#Elden%20Ring"
+                />
+            </div>
+            <div >
+                <Goty 
+                    game="God of War Ragnarok" 
+                    image="/img/god-of-war-ragnarok.jpg" 
+                    award="105"
+                    place="2"
+                    url="/2022/goty#God%20of%20War%20Ragnarok"
+                />
+            </div>
+            <div>
+                <Goty 
+                    game="Immortality" 
+                    image="/img/immortality.jpg" 
+                    award="9"
+                    place="3"
+                    url="/2022/goty#Immortality"
+                />
+            </div>
+            <div>
+                <Goty 
+                    game="Xenoblade Chronicles 3" 
+                    image="/img/xenoblade-chronicles-3.jpg" 
+                    award="7"
+                    place="4"
+                    url="/2022/goty#Xenoblade%20Chronicles%203"
+                />
+            </div>
+            <div>
+                <Goty 
+                    game="Horizon Forbidden West"
+                    image="/img/horizon-forbidden-west.jpg"
+                    award="6"
+                    place="5"
+                    url="/2022/goty#Horizon%20Forbidden%20West"
+                />
+            </div>
+            <div class="md:row-span-2">
+                <Button url="/2022/goty" title="Все игры" />
+            </div>
+        </div>
+    </div>
+</div>
