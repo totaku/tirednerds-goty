@@ -1,0 +1,17 @@
+---
+const { game, year, img, url } = Astro.props;
+---
+
+<div class="grid md:grid-cols-3 sm:gap-4 gap-2 bg-bunker-900 rounded-2xl sm:p-4 p-2">
+    <div class="relative">
+        <a href={url}>
+            <div class="bg-bunker-950 rounded-xl">
+                <img class="object-cover w-full h-48 opacity-30 rounded-xl" src={img} alt={game} />
+            </div>
+            <div class="absolute bottom-2 left-2 text-2xl text-balance">
+                <h2>{year}</h2>
+                <h2>{game}</h2>
+            </div>
+        </a>
+    </div>
+</div>
