@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "IGN выбрал лучшие игры 2023 года"
 date: 2023-12-16T20:00:00+03:00
 image: "/img/posts/ign-best-video-games-2023.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 Редакция портала IGN подвела итоги 2023-го и [назвала](https://www.ign.com/articles/best-video-games-2023) The Legend of Zelda: Tears of the Kingdom лучшей игрой года. По словам журналистов, Nintendo удалось дать пользователям абсолютную свободу действий, поэтому адвенчура ещё долго останется актуальной.

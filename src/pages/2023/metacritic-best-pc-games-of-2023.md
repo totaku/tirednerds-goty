@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Metacritic назвал 20 лучших игр 2023 года для ПК"
 date: 2024-01-03T20:00:00+03:00
 image: "/img/posts/metacritic-best-pc-games-of-2023.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 Редакция Metacritic [опубликовала](https://www.metacritic.com/pictures/best-pc-games-of-2023/) список из 20 самых высокооценённых игр 2023 года, которые вышли на ПК.Рейтинг сформировали на основе средних оценок, которые СМИ выставили тайтлам — обзоров должно было быть не меньше семи.

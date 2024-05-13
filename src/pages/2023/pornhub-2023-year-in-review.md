@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Итоги 2023 года от Pornhub"
 date: 2023-12-14T20:00:00+03:00
 image: "/img/posts/pornhub-2023-year-in-review.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 14 декабря Pornhub [опубликовал](https://www.pornhub.com/insights/2023-year-in-review) на своём сайте подробную статистику запросов за 2023 год. Выбрали главное.

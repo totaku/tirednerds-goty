@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Итоги BAFTA Games Awards 2024"
 date: 2024-04-12T20:00:00+03:00
 image: "/img/posts/bafta-games-2024.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 Триумфатором церемонии BAFTA Games Awards 2024, прошедшей вечером 11 апреля, [стала](https://www.bafta.org/games/awards/2024-nominations-winners) Baldur's Gate 3. Фэнтезийная RPG по франшизе D&D получила пять наград, включая главную — «Лучшая игра».

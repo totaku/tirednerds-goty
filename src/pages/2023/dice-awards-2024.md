@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Победители DICE Awards 2024"
 date: 2024-02-16T20:00:00+03:00
 image: "/img/posts/dice-awards-2024.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 16 февраля Академия интерактивных искусств и наук [провела](https://youtu.be/KbvbQo3BZlE) церемонию награждения DICE Awards 2024.

@@ -3,11 +3,11 @@ import Layout from "./Main.astro";
 const { frontmatter } = Astro.props;
 ---
 
-<Layout pageTitle={frontmatter.title}>
+<Layout pageTitle={frontmatter.title} currentYear={frontmatter.currentYear} currentUrl={frontmatter.currentUrl}>
     <article class="main">
         <h1 class="sm:text-5xl text-3xl pt-8 pb-4 font-semibold">{frontmatter.title}</h1>
         <div class="bg-bunker-900 rounded-2xl">
-            <img class="rounded-t-2xl" src={frontmatter.image} alt="">
+            <img class="rounded-t-2xl" src={frontmatter.image} alt="" />
             <div class="sm:pt-8 sm:px-8 sm:pb-4 pt-4 px-4 pb-1 post">
                 <slot />
             </div>

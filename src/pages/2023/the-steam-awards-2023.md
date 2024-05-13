@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Победители The Steam Awards 2023"
 date: 2024-01-02T20:00:00+03:00
 image: "/img/posts/the-steam-awards-2023.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 Вечером 2 января сотрудники Valve [объявили](https://store.steampowered.com/steamawards?snr=1_4_661_) всех победителей цифрового мероприятия The Steam Awards 2023, которых выбрали пользователи магазина. Голосование длилось почти две недели.

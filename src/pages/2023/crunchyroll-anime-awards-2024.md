@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Победители Crunchyroll Anime Awards 2024"
 date: 2024-03-02T20:00:00+03:00
 image: "/img/posts/crunchyroll-anime-awards-2024.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 В Токио завершилась восьмая церемония награждения премии [Crunchyroll Anime Awards](https://www.crunchyroll.com/ru/news/latest/2024/3/2/pobediteli-anime-awards-2024-celyj-spisok), подводящая итоги аниме 2023 года. В премии (за исключением номинации «Лучший сиквел/онгоинг») участвовали аниме, вышедшие в период с ноября 2022 по сентябрь 2023 года. 

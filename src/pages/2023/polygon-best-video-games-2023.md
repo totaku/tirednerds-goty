@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Polygon объявили 50 лучших игр 2023 года"
 date: 2023-12-05T20:00:00+03:00
 image: "/img/posts/polygon-best-video-games-2023.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 5 декабря сотрудники издания Polygon [опубликовали](https://www.polygon.com/23648669/best-video-games-2023) большой топ, состоящий из 50 лучших игр 2023 года. Журналисты напомнили читателям, что в список также попали тайтлы, которые за последние 12 месяцев получили крупные апдейты, например, Cyberpunk 2077.

@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "В Digital Foundry составили топ игр 2023 года с лучшей графикой"
 date: 2023-12-22T20:00:00+03:00
 image: "/img/posts/digital-foundrys-best-game-graphics-of-2023.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 Специалисты Digital Foundry [опубликовали](https://youtu.be/XtxfJHVKFas) видео, в котором подвели итоги 2023 года и выбрали игры с лучшей графикой.

@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Топ-15 худших фильмов 2023 года на Metacritic"
 date: 2023-12-23T20:00:00+03:00
 image: "/img/posts/metacritic-worst-movies-of-2023.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 Metacritic [составил](https://www.metacritic.com/pictures/worst-movies-of-2023/14/) список худших фильмов 2023 года по версии обозревателей. В него попали картины, которые получили по меньшей мере четыре рецензии.

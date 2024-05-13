@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Итоги 2023 года по версии пользователей блога PlayStation"
 date: 2023-12-20T20:00:00+03:00
 image: "/img/posts/ps-blog-game-of-the-year-2023-the-winners.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 Редакторы блога PlayStation [подвели](https://blog.playstation.com/2023/12/20/ps-blog-game-of-the-year-2023-the-winners/?sf271052742=1) игровые итоги 2023 года, которые они составили на основе голосования среди пользователей сайта.

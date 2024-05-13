@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Metacritic составил рейтинг худших игр 2023 года"
 date: 2023-12-19T20:00:00+03:00
 image: "/img/posts/metacritic-worst-videogames-of-2023.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 В Metacritic составили антирейтинг среди игр, которые получили по меньшей мере семь обзоров. Из-за этого в список не попали [Skull Island: Rise of Kong](https://www.metacritic.com/game/skull-island-rise-of-kong/) — 23 балла из 100 и [The Walking Dead: Destinies](https://www.metacritic.com/game/the-walking-dead-destinies/) — 29 баллов из 100.

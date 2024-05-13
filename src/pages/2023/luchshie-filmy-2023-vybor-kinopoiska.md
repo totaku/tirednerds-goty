@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Лучшие фильмы — 2023: выбор Кинопоиска"
 date: 2023-12-19T20:00:00+03:00
 image: "/img/posts/luchshie-filmy-2023-vybor-kinopoiska.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 Загадка [«Убийцы»](https://www.kinopoisk.ru/film/462656/), народность [«Снегиря»](https://www.kinopoisk.ru/film/4485219/), антимелодрама [«Прошлых жизней](https://www.kinopoisk.ru/film/1346482/)», а также мульти-Пауки, Барби, атомные проекты [Уэса Андерсона](https://www.kinopoisk.ru/name/48415) и [Кристофера Нолана](https://www.kinopoisk.ru/name/41477). Авторы и редакция Кинопоиска вспоминают [23 главных фильма](https://www.kinopoisk.ru/media/article/4008861/) уходящего года.

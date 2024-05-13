@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Победители BAFTA 2024"
 date: 2024-02-18T20:00:00+03:00
 image: "/img/posts/bafta-2024.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 18 февраля [прошла](https://www.bafta.org/film/awards/2024-nominations-winners#animated-film---the-boy-and-the-heron) 77-я церемония вручения наград премии BAFTA, которую вручает Британская академия кино и телевизионных искусств. Триумфатором премии стала картина «Оппенгеймер».

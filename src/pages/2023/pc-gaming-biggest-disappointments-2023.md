@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Главные разочарования 2023 на ПК по версии PC Gamer"
 date: 2023-12-15T20:00:00+03:00
 image: "/img/posts/pc-gaming-biggest-disappointments-2023.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 Авторы издания PC Gamer вспомнили, какими долгожданными, но при этом неудачными или даже провальными продуктами отметился 2023 год на ПК. Они [составили](https://www.pcgamer.com/pc-gaming-biggest-disappointments-2023/) список из нескольких главных разочарований, в который в основном вошли игры.

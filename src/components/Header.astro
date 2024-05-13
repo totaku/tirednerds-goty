@@ -1,11 +1,15 @@
 ---
+const { year, url } = Astro.props;
 ---
 
 <nav class="bg-bunker-950 py-2">
-    <div class="flex flex-wrap items-center">
-        <img class="h-8 mr-4" src="/img/apple-touch-icon.png" alt="">
-        <a class="text-xl text-white border-b-0" href="/">
-            End of the Year
-        </a>
+    <div class="flex justify-between">
+        <div class="flex items-center">
+            <img class="h-8 mr-4" src="/img/apple-touch-icon.png" alt="" />
+            <a class="text-xl text-white border-b-0" href="/"> End of the Year </a>
+        </div>
+        <div class="flex items-center">
+            <a class="text-xl text-white border-b-0" href={url}>{year}</a>
+        </div>
     </div>
 </nav>

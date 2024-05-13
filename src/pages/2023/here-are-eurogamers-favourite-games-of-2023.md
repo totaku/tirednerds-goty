@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Eurogamer назвал 50 лучших игр 2023 года"
 date: 2023-12-24T20:00:00+03:00
 image: "/img/posts/here-are-eurogamers-favourite-games-of-2023.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 Сайт Eurogamer [составил](https://www.eurogamer.net/here-are-eurogamers-favourite-games-of-2023) список из 50 лучших игр 2023 года по версии сотрудников редакции. Они распределили по местам 10 первых игр, а остальные расположили в отдельном списке в алфавитном порядке.

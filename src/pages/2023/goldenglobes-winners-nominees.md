@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Победители «Золотого глобуса-2024»"
 date: 2024-01-08T20:00:00+03:00
 image: "/img/posts/goldenglobes-winners-nominees.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 Ночью 8 января Ассоциация иностранных журналистов, аккредитованных при Голливуде, [объявила](https://goldenglobes.com/winners-nominees/) победителей 81-й премии «Золотой глобус». Церемония вручения наград прошла в Беверли-Хиллз (штат Калифорния).

@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Reddit Anime Awards 2023"
 date: 2024-03-03T20:00:00+03:00
 image: "/img/posts/reddit-anime-awards-2023.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 3 Марта 2024 года завершилась ежегодная церемония премии [Reddit Anime Awards](https://animeawards.moe/results/all), подводящая итоги аниме 2023 года. В премии участвовали работы, которые подпадают под определение аниме, завершенные не ранее 13 января и не позднее 31 декабря 2023 года.

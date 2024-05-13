@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Победители GDC Awards 2024"
 date: 2024-03-21T20:00:00+03:00
 image: "/img/posts/gdc-awards-2024.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 Во время конференции игровых разработчиков GDC 2024 [прошла](https://twitter.com/Official_GDC) ежегодная премия GDC Awards, на которой авторы игр выбирают победителей в нескольких категориях.

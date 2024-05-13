@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Metacritic назвал 25 лучших фильмов 2023 года"
 date: 2024-01-04T20:00:00+03:00
 image: "/img/posts/metacritic-best-movies-of-2023.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 Редакция Metacritic [опубликовала](https://www.metacritic.com/pictures/best-movies-of-2023/) список из 25 самых высокооценённых фильмов 2023 года. Рейтинг сформировали на основе средних оценок, которые СМИ выставили тайтлам — обзоров должно было быть не меньше семи.

@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Metacritic назвал лучшие игры 2023 года для консолей PlayStation "
 date: 2024-01-02T20:00:00+03:00
 image: "/img/posts/metacritic-best-playstation-games-of-2023.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 Сотрудники агрегатора Metacritic [представили](https://www.metacritic.com/pictures/best-playstation-games-of-2023/) топ-20 самых высокооценённых игр, которые вышли на PS4 и PS5 в 2023 году. В первой пятёрке не оказалось эксклюзивов PlayStation — эти места заняли мультиплатформенные релизы.

@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Metacritic назвал 20 лучших игр 2023 года для Xbox Series X|S"
 date: 2023-12-29T20:00:00+03:00
 image: "/img/posts/metacritic-the-20-best-xbox-games-of-2023.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 Редакция Metacritic [опубликовала](https://www.metacritic.com/pictures/the-20-best-xbox-games-of-2023/) список из 20 самых высокооценённых игр 2023 года, которые вышли на Xbox Series X|S. Рейтинг сформировали на основе средних оценок, которые СМИ выставили тайтлам — обзоров должно было быть не меньше семи.

@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Итоги 2023-го в Epic Games Store"
 date: 2024-02-16T20:00:00+03:00
 image: "/img/posts/epic-games-store-2023-year-in-review.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 Epic Games Store подвёл [свои итоги года](https://store.epicgames.com/ru/news/epic-games-store-2023-year-in-review) — какие игры оказались самыми успешными, сколько денег заработали разработчики, чего ждать от магазина в 2024 году и так далее.

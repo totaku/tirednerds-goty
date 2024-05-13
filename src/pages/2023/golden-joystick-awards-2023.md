@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Итоги Golden Joystick Awards 2023"
 date: 2023-11-10T20:00:00+03:00
 image: "/img/posts/golden-joystick-awards-2023.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 Победителей премии Golden Joystick Awards 2023 [объявили](https://www.gamesradar.com/golden-joystick-awards-2023-winners/) 10 ноября в ходе церемонии, которая прошла в Лондоне. Ведущим мероприятия выступил Трой Бейкер. Голосование проходило среди игроков на сайте GamesRadar — принять участие в нём могли все желающие.

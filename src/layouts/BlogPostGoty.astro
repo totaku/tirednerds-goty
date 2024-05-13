@@ -3,7 +3,7 @@ import Layout from "./Main.astro";
 const { frontmatter } = Astro.props;
 ---
 
-<Layout pageTitle={frontmatter.title}>
+<Layout pageTitle={frontmatter.title} currentYear={frontmatter.currentYear} currentUrl={frontmatter.currentUrl}>
     <article class="goty">
         <h1 class="text-5xl pt-8 pb-4 font-semibold">{frontmatter.title}</h1>
         <p class="text-lg sm:text-xl">{frontmatter.total}</p>

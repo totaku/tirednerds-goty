@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Metacritic назвал лучшие игры 2023 года для Switch"
 date: 2023-12-28T20:00:00+03:00
 image: "/img/posts/metacritic-best-nintendo-switch-games-of-2023.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 Metacritic [опубликовали](https://www.metacritic.com/pictures/best-nintendo-switch-games-of-2023/) список из 20 самых высокооценённых игр, вышедших на Nintendo Switch в 2023 году. Рейтинг сформирован на основе средних оценок, которые зарубежные СМИ выставили тайтлам в своих обзорах.

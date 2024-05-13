@@ -3,10 +3,10 @@ import "../assets/styles/main.css";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 
-const { pageTitle } = Astro.props;
+const { pageTitle, currentYear, currentUrl } = Astro.props;
 ---
 
-<!DOCTYPE html>
+<!doctype html>
 <html class="no-js" lang="ru">
     <head>
         <meta charset="utf-8" />
@@ -27,25 +27,44 @@ const { pageTitle } = Astro.props;
         <meta name="twitter:title" content={pageTitle} />
         <meta name="twitter:description" content="Собрали итоги года в мире кино, сериалов и игр. Откройте для себя лучшее в мире развлечений за прошедшие 365 дней! " />
         <meta name="twitter:image" content="https://tirednerds.com/wp-content/uploads/2023/09/main.jpg" />
-        <link rel="apple-touch-icon" sizes="180x180" href="https://eoty.tirednerds.com/img/apple-touch-icon.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="https://eoty.tirednerds.com/img/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="https://eoty.tirednerds.com/img/favicon-16x16.png">
-        <link rel="manifest" href="https://eoty.tirednerds.com/img/site.webmanifest">
-        <link rel="mask-icon" href="https://eoty.tirednerds.com/img/safari-pinned-tab.svg" color="#5bbad5">
-        <link rel="shortcut icon" href="https://eoty.tirednerds.com/img/favicon.ico">
-        <meta name="msapplication-TileColor" content="#ffc40d">
-        <meta name="msapplication-config" content="https://eoty.tirednerds.com/img/browserconfig.xml">
-        <meta name="theme-color" content="#ffffff"> 
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet"> 
+        <link rel="apple-touch-icon" sizes="180x180" href="https://eoty.tirednerds.com/img/apple-touch-icon.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="https://eoty.tirednerds.com/img/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="https://eoty.tirednerds.com/img/favicon-16x16.png" />
+        <link rel="manifest" href="https://eoty.tirednerds.com/img/site.webmanifest" />
+        <link rel="mask-icon" href="https://eoty.tirednerds.com/img/safari-pinned-tab.svg" color="#5bbad5" />
+        <link rel="shortcut icon" href="https://eoty.tirednerds.com/img/favicon.ico" />
+        <meta name="msapplication-TileColor" content="#ffc40d" />
+        <meta name="msapplication-config" content="https://eoty.tirednerds.com/img/browserconfig.xml" />
+        <meta name="theme-color" content="#ffffff" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
     </head>
     <body>
         <div class="container">
-            <Header />
+            <Header year={currentYear} url={currentUrl} />
             <slot />
             <Footer />
         </div>
-    <!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date(); for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }} k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js", "ym"); ym(96386199, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/96386199" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+        <!-- Yandex.Metrika counter -->
+        <script type="text/javascript">
+            (function (m, e, t, r, i, k, a) {
+                m[i] =
+                    m[i] ||
+                    function () {
+                        (m[i].a = m[i].a || []).push(arguments);
+                    };
+                m[i].l = 1 * new Date();
+                for (var j = 0; j < document.scripts.length; j++) {
+                    if (document.scripts[j].src === r) {
+                        return;
+                    }
+                }
+                (k = e.createElement(t)), (a = e.getElementsByTagName(t)[0]), (k.async = 1), (k.src = r), a.parentNode.insertBefore(k, a);
+            })(window, document, "script", "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js", "ym");
+            ym(96386199, "init", { clickmap: true, trackLinks: true, accurateTrackBounce: true, webvisor: true, trackHash: true });
+        </script>
+        <noscript><div><img src="https://mc.yandex.ru/watch/96386199" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+        <!-- /Yandex.Metrika counter -->
     </body>
 </html>

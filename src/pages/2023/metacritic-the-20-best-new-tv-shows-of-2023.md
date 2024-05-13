@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Metacritic назвал лучшие новые сериалы 2023 года"
 date: 2023-12-21T20:00:00+03:00
 image: "/img/posts/metacritic-the-20-best-new-tv-shows-of-2023.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 Редакция Metacritic [продолжает](https://www.metacritic.com/news/the-20-best-new-tv-shows-of-2023/) подводить итоги года. На этот раз она представила сериалы, которые дебютировали в 2023 году и получили самый высокий средний балл на платформе.

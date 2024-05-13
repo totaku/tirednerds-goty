@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Победители The Game Awards 2023"
 date: 2023-12-08T20:00:00+03:00
 image: "/img/posts/the-game-awards-2023.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 В ночь на 8 декабря в Лос-Анджелесе [прошла](https://thegameawards.com/) церемония вручения премии The Game Awards 2023.

@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Итоги «Эмми-2023»"
 date: 2024-01-16T20:00:00+03:00
 image: "/img/posts/emmy-award-winners-list-2023.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 В ночь на 16 января [прошла](https://www.hollywoodreporter.com/tv/tv-news/2023-emmy-award-winners-list-1235788451/) 75 церемония вручения премии «Эмми», которую перенесли с сентября из-за забастовок в Голливуде.

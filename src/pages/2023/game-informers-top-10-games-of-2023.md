@@ -3,6 +3,8 @@ layout: ../../layouts/BlogPost.astro
 title: "Game Informer назвал 10 лучших игр 2023 года"
 date: 2023-12-20T20:00:00+03:00
 image: "/img/posts/game-informers-top-10-games-of-2023.jpg"
+currentYear: "2023"
+currentUrl: "/2023"
 ---
 
 В редакции Game Informer [выбрали](https://www.gameinformer.com/2023/12/19/game-informers-top-10-games-of-2023) The Legend of Zelda: Tears of the Kingdom лучшей игрой 2023 года. По словам авторов журнала, экшен-адвенчура Nintendo стала для них одним из самых увлекательных приключений года, а вместе с этим удивила и позволила почувствовать себя умными и креативными. Сотрудники издания отдельно похвалили разработчиков Tears of the Kingdom за то, что они предоставили игрокам огромную творческую свободу в исследовании Хайрула за счёт новых способностей Линка.
